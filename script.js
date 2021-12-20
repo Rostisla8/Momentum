@@ -197,9 +197,3 @@ let prew = document.querySelector('#prewSlide');
 prew.addEventListener('click', function() {
     hello4();
 })
-    
-
-
-
-
-
